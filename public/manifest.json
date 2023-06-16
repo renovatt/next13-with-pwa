@@ -4,9 +4,9 @@
     "display": "standalone",
     "scope": "/",
     "start_url": "/",
-    "name": "PWA Next.js 13",
-    "short_name": "PWA Next.js 13",
-    "description": "Next.js 13 with PWA",
+    "name": "PWA-Nexts13",
+    "short_name": "PWA-Nexts13",
+    "description": "PWA-with-Nexts13",
     "icons": [
         {
             "src": "/icon-192x192.png",
