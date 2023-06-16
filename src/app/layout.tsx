@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     description: APP_DESCRIPTION,
     siteName: APP_NAME,
     images: [{
-      url: "https://schedule-petshop-system.vercel.app/next-pwa.png",
+      url: "https://next13-with-pwa-renovatt.vercel.app/next-pwa.png",
     }],
   },
 
