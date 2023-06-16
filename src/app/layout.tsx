@@ -20,7 +20,7 @@ export const metadata: Metadata = {
 
   openGraph: {
     type: "website",
-    url: "https://example.com",
+    url: "https://next13-with-pwa-renovatt.vercel.app",
     title: APP_NAME,
     description: APP_DESCRIPTION,
     siteName: APP_NAME,
